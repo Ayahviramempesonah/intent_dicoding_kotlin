@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Latihan Kotlin Dicoding</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="pindah_activity1">pindah activyty1</string>
+    <string name="text_activity2">HAI SAYA TEXTVIEW ACTIVITY 2</string>
+    <string name="move_with_data">pindah intent dengan data</string>
+    <string name="pindah_parcel">PINDAH ACTIVITY DENGAN OBJECT</string>
+    <string name="object_received">object diterima</string>
+    <string name="btn_implicit">BUTTON IMPLICIT INTENT</string>
+</resources>
