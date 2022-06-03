@@ -32,6 +32,14 @@
          android:id="@+id/btn_implicit_intent"
          android:layout_width="match_parent" android:layout_height="wrap_content"/>
 
+<Button
 
+        android:text="@string/btn_result"
+        android:id="@+id/btn_result"
+        android:layout_width="match_parent" android:layout_height="wrap_content"/>
+<TextView
 
+        android:text="@string/tv_result"
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent" android:layout_height="wrap_content"/>
 </LinearLayout>
